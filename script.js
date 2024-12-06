@@ -1,4 +1,4 @@
-const apiKey = "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"; // Replace with your OpenAI API Key
+const apiKey = "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"; // Replace with your OpenAI API Key
 const chatBox = document.getElementById('chat-box');
 const userInput = document.getElementById('user-input');
 const sendButton = document.getElementById('send-button');
